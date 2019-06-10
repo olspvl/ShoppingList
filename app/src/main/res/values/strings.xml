@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="item_title_hint">Enter a title for the item.</string>
+    <string name="item_title_label">Title</string>
+    <string name="item_bought_label">Bought</string>
+    <string name="item_photo_no_image_description">No photo</string>
+    <string name="single_item_title">Item title</string>
+    <string name="photo_camera_hint">Take a photo from camera</string>
+    <string name="photo_gallery_hint">Take a photo from gallery</string>
+    <string name="select_all">Select all the items</string>
+    <string name="move_item_to_basket">Move the items to basket</string>
+    <string name="move_item_to_list">Move the items to shopping list</string>
+    <string name="item_photo_image_description">Item photo</string>
+</resources>
